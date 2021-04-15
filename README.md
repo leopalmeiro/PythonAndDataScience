@@ -6,6 +6,7 @@ Repo with information about python, machine learning and DataSicence
 # Repos with a lot information about data science
 [therealsreehari](https://github.com/therealsreehari/Learn-Data-Science-For-Free)
 
+[Pamoroso freebooks](https://github.com/pamoroso/free-python-books)
 # Interesting topic
 [DATA LAKE](https://lakefs.io/data-lakes/)
 
